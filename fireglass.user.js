@@ -1,12 +1,10 @@
 // ==UserScript==
 // @namespace    https://openuserjs.org/users/floodmeadows
-// @name         Fieldglass completion helper
-// @description  Adds options to complete or reset the billable hours in your Fieldglass timesheet
+// @name         Fireglass
+// @description  Adds shortcut buttons to Fieldglass to make it quicker and easier to fill in your timesheets
 // @copyright    2020, floodmeadows (https://openuserjs.org/users/floodmeadows)
 // @license      MIT
 // @version      0.4.0
-// @updateURL    https://openuserjs.org/meta/floodmeadows/Fieldglass_completion_helper.meta.js
-// @downloadURL  https://openuserjs.org/src/scripts/username/Fieldglass_completion_helper.user.js
 // @include      https://www.fieldglass.net/rate_schedule_time_sheet_form.do*
 // @grant        none
 // ==/UserScript==
