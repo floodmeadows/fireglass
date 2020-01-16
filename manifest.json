@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name":             "Fireglass for Fieldglass Timesheets",
     "short_name":       "Fireglass",
-    "description":      "Adds some missing features to make timesheets easier to fill in.",
+    "description":      "Adds some missing features to make it quicker and easier to fill in your timesheets.",
     "version":          "1.0",
     "browser_action":   {
     },
@@ -14,10 +14,10 @@
         "run_at": "document_end"
     }],
     "icons": {
-      "16": "images/fireglass_icon16.png",
-      "32": "images/fireglass_icon32.png",
-      "48": "images/fireglass_icon48.png",
-      "128": "images/fireglass_icon128.png"
+      "16": "images/fireglass-icon16.png",
+      "32": "images/fireglass-icon32.png",
+      "48": "images/fireglass-icon48.png",
+      "128": "images/fireglass-icon128.png"
     },
     "converted_from_user_script": true
 }
