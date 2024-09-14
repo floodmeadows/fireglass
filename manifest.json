@@ -1,9 +1,9 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name":             "Fireglass for Fieldglass Timesheets",
     "short_name":       "Fireglass",
     "description":      "Adds some missing features to make it quicker and easier to fill in your timesheets.",
-    "version":          "1.0",
+    "version":          "1.1",
     "browser_action":   {
     },
     "content_scripts":  [{
